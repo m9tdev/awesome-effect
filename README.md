@@ -9,8 +9,9 @@ A collection of awesome libraries, talks, articles, and educational materials fo
 _Official resources_
 
 - Website: [https://effect.website](https://effect.website)
-- Docs: [https://effect.website/docs](https://effect.website/docs)
 - Repo: [https://github.com/Effect-TS/effect](https://github.com/Effect-TS/effect)
+- Docs: [https://effect.website/docs](https://effect.website/docs)
+- Blog: [https://effect.website/blog](https://effect.website/blog)
 - Discord: [https://discord.gg/effect-ts](https://discord.gg/effect-ts)
 - X (Twitter): [https://x.com/EffectTS\_](https://x.com/EffectTS_)
 
