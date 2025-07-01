@@ -57,7 +57,9 @@ _Official resources_
 ## Videos
 
 - [Effect Youtube Channel](https://www.youtube.com/@effect-ts)
-- [Effect: the unreadable library that captured my heart](https://www.youtube.com/watch?v=S2GChOwivwQ) - A short explanation of Effect by Matt Pocock.
+- [Effect: Next-Generation Typescript](https://www.youtube.com/watch?v=SloZE4i4Zfk) - An introduction to Effect by Ethan Niser (2023-07-08).
+- [Effect for Beginners](https://www.youtube.com/watch?v=fTN8BX5qj6s) - A guide through Effect's core concepts (2023-08-07).
+- [Effect: the unreadable library that captured my heart](https://www.youtube.com/watch?v=S2GChOwivwQ) - A short explanation of Effect by Matt Pocock (2025-06-30).
 
 ## Talks
 
