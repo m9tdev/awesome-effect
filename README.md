@@ -28,6 +28,7 @@ _Official resources_
 - [Tools](#tools)
 - [Articles](#articles)
 - [Examples](#examples)
+- [Courses](#courses)
 - [Videos](#videos)
 - [Talks](#talks)
 - [Podcasts](#podcasts)
@@ -48,6 +49,10 @@ _Official resources_
 
 - [Effect-TS/examples](https://github.com/Effect-TS/examples) - A repository of examples showing how to use Effect.
 - [PaulJPhilp/EffectPatterns](https://github.com/PaulJPhilp/EffectPatterns) - A community-driven knowledge base of practical patterns for Effect-TS.
+
+## Courses
+
+- [Effect: Beginners Complete Getting Started](https://www.typeonce.dev/course/effect-beginners-complete-getting-started) - A complete getting started course by Sandro Maglione.
 
 ## Videos
 
