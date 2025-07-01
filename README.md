@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/effect-logo-white.png">
+  <source media="(prefers-color-scheme: light)" srcset="images/effect-logo-black.png">
+  <img alt="Effect Logo" src="images/effect-logo-light.png">
+</picture>
+
 # Awesome Effect
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
