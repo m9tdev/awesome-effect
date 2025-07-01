@@ -47,7 +47,8 @@ _Official resources_
 
 ## Talks
 
-- [Effect Days 2025](https://www.youtube.com/watch?v=0C20pfZi6jE&list=PLDf3uQLaK2B9bEBZbwMv04e_zSbRNPKH6) - A collection of talks from the Effect Days 2025 conference.
+- [Effect Days 2025](https://www.youtube.com/playlist?list=PLDf3uQLaK2B9bEBZbwMv04e_zSbRNPKH6) - A collection of talks from the Effect Days 2025 conference.
+- [Effect Days 2024](https://www.youtube.com/playlist?list=PLDf3uQLaK2B9a4tbMgGd9wFeEnMA50z4w) - A collection of talks from the Effect Days 2025 conference.
 
 ## Podcasts
 
