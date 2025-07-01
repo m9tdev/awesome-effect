@@ -10,7 +10,9 @@ _Official resources_
 
 - Website: [https://effect.website](https://effect.website)
 - Docs: [https://effect.website/docs](https://effect.website/docs)
-- Repo: [https://github.com/effect-ts/effect](https://github.com/effect-ts/effect)
+- Repo: [https://github.com/Effect-TS/effect](https://github.com/Effect-TS/effect)
+- Discord: [https://discord.gg/effect-ts](https://discord.gg/effect-ts)
+- X (Twitter): [https://x.com/EffectTS\_](https://x.com/EffectTS_)
 
 ## Contents
 
@@ -26,7 +28,7 @@ _Official resources_
 
 ## Libraries
 
-- [Effect-TS/effect](https://github.com/effect-ts/effect) - The core Effect library.
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) - The core Effect library.
 - [tim-smart/effect-rx](https://github.com/tim-smart/effect-rx) - A reactive state management library for Effect.
 
 ## Tools
