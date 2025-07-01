@@ -59,7 +59,7 @@ _Official resources_
 - [Effect Days 2025](https://www.youtube.com/playlist?list=PLDf3uQLaK2B9bEBZbwMv04e_zSbRNPKH6) - A collection of talks from the Effect Days 2025 conference.
   - [Production-grade app architecture with Effect](https://www.youtube.com/watch?v=upXJJ9maWPc) - Workshop Part 1 by Maxwell Brown.
   - [Incremental Adoption of Effect](https://www.youtube.com/watch?v=LEiNtsMMo8c) - Workshop Part 2 by Tim Smart.
-- [Effect Days 2024](https://www.youtube.com/playlist?list=PLDf3uQLaK2B9a4tbMgGd9wFeEnMA50z4w) - A collection of talks from the Effect Days 2025 conference.
+- [Effect Days 2024](https://www.youtube.com/playlist?list=PLDf3uQLaK2B9a4tbMgGd9wFeEnMA50z4w) - A collection of talks from the Effect Days 2024 conference.
   - [Effect Beginner / Intermediate](https://www.youtube.com/watch?v=Lz2J1NBnHK4) - A workshop by Ethan Niser.
   - [Advanced Effect](https://www.youtube.com/watch?v=7jOD5okJC00) - A workshop by Maxwell Brown.
 
