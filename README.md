@@ -24,13 +24,12 @@ _Official resources_
 ## Contents
 
 - [Libraries](#libraries)
+- [Tools](#tools)
 - [Articles](#articles)
-- [Videos](#videos)
-- [Tutorials](#tutorials)
-- [Crash Courses](#crash-courses)
 - [Examples](#examples)
-- [Boilerplates](#boilerplates)
+- [Videos](#videos)
 - [Talks](#talks)
+- [Podcasts](#podcasts)
 - [Contributing](#contributing)
 
 ## Libraries
