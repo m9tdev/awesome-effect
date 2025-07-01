@@ -18,6 +18,7 @@ _Official resources_
 - Repo: [https://github.com/Effect-TS/effect](https://github.com/Effect-TS/effect)
 - Docs: [https://effect.website/docs](https://effect.website/docs)
 - Blog: [https://effect.website/blog](https://effect.website/blog)
+- Playground: [https://effect.website/play](https://effect.website/play)
 - Discord: [https://discord.gg/effect-ts](https://discord.gg/effect-ts)
 - X (Twitter): [https://x.com/EffectTS\_](https://x.com/EffectTS_)
 
