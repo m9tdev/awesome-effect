@@ -49,6 +49,7 @@ _Official resources_
 
 - [Effect-TS/examples](https://github.com/Effect-TS/examples) - A repository of examples showing how to use Effect.
 - [PaulJPhilp/EffectPatterns](https://github.com/PaulJPhilp/EffectPatterns) - A community-driven knowledge base of practical patterns for Effect-TS.
+- [EffectByExample.com](https://effectbyexample.com) - A set of short examples on how to use Effect in some common scenarios
 
 ## Courses
 
