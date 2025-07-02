@@ -42,6 +42,7 @@ _Official resources_
 ## Tools
 
 - [tim-smart/effect-mcp](https://github.com/tim-smart/effect-mcp) - A MCP server for Effect.
+- [Effect-TS/language-service](https://github.com/Effect-TS/language-service) - A TypeScript language service plugin for Effect.
 
 ## Articles
 
