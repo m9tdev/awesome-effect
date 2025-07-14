@@ -38,6 +38,7 @@ _Official resources_
 
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - The core Effect library.
 - [tim-smart/effect-rx](https://github.com/tim-smart/effect-rx) - A reactive state management library for Effect.
+- [rjdellecese/confect](https://github.com/rjdellecese/confect) - A framework that deeply integrates Effect with Convex
 
 ## Tools
 
