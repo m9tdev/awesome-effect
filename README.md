@@ -8,7 +8,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome things related to Effect
+> A curated list of awesome things related to Effect.
 
 A collection of awesome libraries, talks, articles, and educational materials for the Effect ecosystem.
 
@@ -36,49 +36,49 @@ _Official resources_
 
 ## Libraries
 
-- [Effect-TS/effect](https://github.com/Effect-TS/effect) - The core Effect library.
-- [tim-smart/effect-rx](https://github.com/tim-smart/effect-rx) - A reactive state management library for Effect.
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) - The core Effect library
+- [tim-smart/effect-rx](https://github.com/tim-smart/effect-rx) - A reactive state management library for Effect
 - [rjdellecese/confect](https://github.com/rjdellecese/confect) - A framework that deeply integrates Effect with Convex
 
 ## Tools
 
-- [tim-smart/effect-mcp](https://github.com/tim-smart/effect-mcp) - A MCP server for Effect.
-- [Effect-TS/language-service](https://github.com/Effect-TS/language-service) - A TypeScript language service plugin for Effect.
+- [tim-smart/effect-mcp](https://github.com/tim-smart/effect-mcp) - A MCP server for Effect
+- [Effect-TS/language-service](https://github.com/Effect-TS/language-service) - A TypeScript language service plugin for Effect
 
 ## Articles
 
 ## Examples
 
-- [Effect-TS/examples](https://github.com/Effect-TS/examples) - A repository of examples showing how to use Effect.
-- [PaulJPhilp/EffectPatterns](https://github.com/PaulJPhilp/EffectPatterns) - A community-driven knowledge base of practical patterns for Effect-TS.
+- [Effect-TS/examples](https://github.com/Effect-TS/examples) - A repository of examples showing how to use Effect
+- [PaulJPhilp/EffectPatterns](https://github.com/PaulJPhilp/EffectPatterns) - A community-driven knowledge base of practical patterns for Effect-TS
 - [EffectByExample.com](https://effectbyexample.com) - A set of short examples on how to use Effect in some common scenarios
 - [Visual Effect](https://effect.kitlangton.com/) - Visual interactive Effect examples
 
 ## Courses
 
-- [Effect: Beginners Complete Getting Started](https://www.typeonce.dev/course/effect-beginners-complete-getting-started) - A complete getting started course by Sandro Maglione.
+- [Effect: Beginners Complete Getting Started](https://www.typeonce.dev/course/effect-beginners-complete-getting-started) - A complete getting started course by Sandro Maglione
 
 ## Videos
 
 - [Effect Youtube Channel](https://www.youtube.com/@effect-ts)
-- [Effect: Next-Generation Typescript](https://www.youtube.com/watch?v=SloZE4i4Zfk) - An introduction to Effect by Ethan Niser (2023-07-08).
-- [Effect for Beginners](https://www.youtube.com/watch?v=fTN8BX5qj6s) - A guide through Effect's core concepts by Ethan Niser (2023-08-07).
-- [Effect: the unreadable library that captured my heart](https://www.youtube.com/watch?v=S2GChOwivwQ) - A short explanation of Effect by Matt Pocock (2025-06-30).
-- [Lucas Barake's Channel](https://www.youtube.com/@lucas-barake) - Tutorials and explanations about Effect.
+- [Effect: Next-Generation Typescript](https://www.youtube.com/watch?v=SloZE4i4Zfk) - An introduction to Effect by Ethan Niser (2023-07-08)
+- [Effect for Beginners](https://www.youtube.com/watch?v=fTN8BX5qj6s) - A guide through Effect's core concepts by Ethan Niser (2023-08-07)
+- [Effect: the unreadable library that captured my heart](https://www.youtube.com/watch?v=S2GChOwivwQ) - A short explanation of Effect by Matt Pocock (2025-06-30)
+- [Lucas Barake's Channel](https://www.youtube.com/@lucas-barake) - Tutorials and explanations about Effect
 
 ## Talks
 
-- [Effect Days 2025](https://www.youtube.com/playlist?list=PLDf3uQLaK2B9bEBZbwMv04e_zSbRNPKH6) - A collection of talks from the Effect Days 2025 conference.
-  - [Production-grade app architecture with Effect](https://www.youtube.com/watch?v=upXJJ9maWPc) - Workshop Part 1 by Maxwell Brown.
-  - [Incremental Adoption of Effect](https://www.youtube.com/watch?v=LEiNtsMMo8c) - Workshop Part 2 by Tim Smart.
-- [Effect Days 2024](https://www.youtube.com/playlist?list=PLDf3uQLaK2B9a4tbMgGd9wFeEnMA50z4w) - A collection of talks from the Effect Days 2024 conference.
-  - [Effect Beginner / Intermediate](https://www.youtube.com/watch?v=Lz2J1NBnHK4) - A workshop by Ethan Niser.
-  - [Advanced Effect](https://www.youtube.com/watch?v=7jOD5okJC00) - A workshop by Maxwell Brown.
+- [Effect Days 2025](https://www.youtube.com/playlist?list=PLDf3uQLaK2B9bEBZbwMv04e_zSbRNPKH6) - A collection of talks from the Effect Days 2025 conference
+  - [Production-grade app architecture with Effect](https://www.youtube.com/watch?v=upXJJ9maWPc) - Workshop Part 1 by Maxwell Brown
+  - [Incremental Adoption of Effect](https://www.youtube.com/watch?v=LEiNtsMMo8c) - Workshop Part 2 by Tim Smart
+- [Effect Days 2024](https://www.youtube.com/playlist?list=PLDf3uQLaK2B9a4tbMgGd9wFeEnMA50z4w) - A collection of talks from the Effect Days 2024 conference
+  - [Effect Beginner / Intermediate](https://www.youtube.com/watch?v=Lz2J1NBnHK4) - A workshop by Ethan Niser
+  - [Advanced Effect](https://www.youtube.com/watch?v=7jOD5okJC00) - A workshop by Maxwell Brown
 
 ## Podcasts
 
-- [Cause & Effect](https://effect.website/podcast/) - A podcast exploring how engineers are using Effect.
+- [Cause & Effect](https://effect.website/podcast/) - A podcast exploring how engineers are using Effect
 
 ## Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](CONTRIBUTING.md) first
